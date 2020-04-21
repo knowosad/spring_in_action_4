@@ -1,1 +1,3 @@
-# spring_in_action_4
+Some small projects which come from the book "Spring In Action. Fourth Edition"
+
+Spittr - Spring MVC
